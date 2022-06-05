@@ -1,4 +1,4 @@
-package uk.tw.energy.domain;
+package uk.tw.energy.base;
 
 import java.util.List;
 
